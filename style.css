@@ -1,0 +1,13 @@
+/* body {
+    background: green;
+} */
+.heading-container {
+    display: flex;
+    justify-content: center;
+}
+/* .heading {
+    font-size: 3em;
+    font-weight: bold;
+    justify-content: center;
+    border-bottom: 3px solid black;
+} */
